@@ -3,7 +3,7 @@
 <Document>
   <!-- Begin Style Definitions -->
   <Style id="point1">
-    <IconStyle><Icon>kml_symbol_dot - orange_0.png</Icon></IconStyle>
+    <IconStyle><Icon><href>https://user-images.githubusercontent.com/66349026/101584105-d52bac00-3a17-11eb-96c1-29be7b033671.png</href></Icon></IconStyle>
   </Style>
   <Folder>
     <name>Point Features</name>
